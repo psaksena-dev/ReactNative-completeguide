@@ -1,6 +1,6 @@
 # ReactNative-completeguide
 
-## what is React Native?
+## What is React Native?
 
 - A colleciton of "special" react components
 - Components compiled to Native (iOS / Andriod) widgets
